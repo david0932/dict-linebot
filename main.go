@@ -1,4 +1,4 @@
-// Licensed under the Apache License, Version 2.0 (the "License");
+ // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
 // You may obtain a copy of the License at
 //
@@ -14,15 +14,15 @@ package main
 
 import (
 	"fmt"
-	"log"
-	"net/http"
+	//"log"
+	//"net/http"
 	"os"
 	"strconv"
 
 	"github.com/line/line-bot-sdk-go/linebot"
 	//
-	"encoding/json"
-	"html"
+	//"encoding/json"
+	//"html"
 	"io/ioutil"
 	"log"
 	"net/http"
